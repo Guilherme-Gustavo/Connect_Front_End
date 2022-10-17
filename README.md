@@ -1,2 +1,2 @@
 # Connect_Front_End
-Listas de Front-End do curso do Connect
+<p>Listas de Front-End do curso do Connect. Contém exercícios e comandos básicos em HTML e CSS</p>
